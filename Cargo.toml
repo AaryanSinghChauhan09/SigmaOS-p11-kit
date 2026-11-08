@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_p11_kit"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS p11-kit component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_p11_kit"
+path = "src/lib.rs"
