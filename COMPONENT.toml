@@ -3,7 +3,7 @@ name = "SigmaOS-p11-kit"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "p11-kit component"
+description = "SigmaOS SigmaOS-p11-kit component"
 upstream = []
 
 [contract]
